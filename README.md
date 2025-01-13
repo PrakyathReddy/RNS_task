@@ -12,9 +12,9 @@ DevOps Trial Task:
 3. terraform plan
 4. terraform apply
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/23dee96a-e483-4c5c-a6a4-9d4dc30a54ff/55d35066-bea0-4be3-abb2-bc4d29874376/image.png)
+![image](https://github.com/user-attachments/assets/8af1e170-dd64-4aad-8669-42f38e08d01e)
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/23dee96a-e483-4c5c-a6a4-9d4dc30a54ff/fa4e85c4-e038-410a-a890-52d37ab7acf9/image.png)
+![image](https://github.com/user-attachments/assets/ab66b7bf-db96-4dc1-a06b-317450354c34)
 
 ![image](https://github.com/user-attachments/assets/1e655c2f-0438-4a94-b35a-6c60d7d149da)
 
